@@ -15,32 +15,37 @@
         loadFooter: true,
         loadSidebar: true,
         loadNavbar: true,
-        glossify: {
-	  debug: false,
+        glossify: 
+	  {
           terminologyHeading: '###'
-        }
+          }
         mergeNavbar: true,
         name: 'BRASSBOUNDER TOOLKIT',
-        pagination: {
+        pagination: 
+	{
           crossChapter: true,
           crossChapterText: true,
-          nextText: {
-            '/': 'NEXT',
-          },
-          previousText: {
+          nextText: 
+	    {
+	   '/': 'NEXT',
+            },
+          previousText: 
+	    {
             '/': 'PREVIOUS',
+            },
+        },
+        search: 
+	{
+        paths: 'auto',
+        placeholder: 
+	  {
+          '/': 'Type to search',
+          },
+        noData: 
+	  {
+          '/': 'No Results',
           },
         },
-        search: {
-        paths: 'auto',
-        placeholder: {
-          '/': 'Type to search',
-        },
-        noData: {
-          '/': 'No Results',
-        },
-      },
-      subMaxLevel: 2,
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
