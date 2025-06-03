@@ -21,9 +21,9 @@ Whenever a squad with one or more wounded soldiers activates, roll one d6 for ea
 - Otherwise the wounded model dies and is removed from the game.
 ## Activating Units
 A unit can move or shoot, in any order. It can also decline to move or shoot at all.
-### Move
+#### Move
 First turn the unit to face the desired direction. Next put a ruler next to the front of the unit and move the unit forward so that the front has moved up to the Move Range below. A unit cannot end a move on top of another unit or piece of cover.
-### Shoot
+#### Shoot
 Each unit has a number and type of dice to use when shooting, called the dice pool. These conditions must be met in order to attack:
 - The unit must have a weapon in range. Measure the closest point between the unit and the target using the ruler. You may only attack with a weapon that has a
 Shoot range greater than or equal to that distance.
@@ -32,9 +32,9 @@ cover or another model, the attack is canceled.
 If both conditions are met, roll the dice pool.
 ## Defending
 If part of the target is behind cover, the attacker adds one dice of the same type to the dice pool. After rolling, the defender removes one dice from the result.
-### If the target is a Squad…
+#### If the target is a Squad…
 Squads take hits on dice rolls of **4 or less (4-)**. For each hit, remove one model from the base and place it next to the unit, to show it is wounded. If all of the models are wounded, the unit is destroyed. Otherwise, the next time the squad activates, it must pass a **Quality Check** to see if the model lives or dies.
-If the target is a Vehicle…
+#### If the target is a Vehicle…
 Vehicles take hits on a dice roll of **5 or more (5+)**. Save the dice that scored hits and discard the remainder. For each hit, reroll that dice and compare the new result to the Armor column in the stat table below for the target. If the dice result is greater, place a damage token on the vehicle. Otherwise, the hit
 bounces off the armor. If ever the vehicle receives a second damage token, it is destroyed.
 ## Scoring
