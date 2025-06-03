@@ -1,7 +1,9 @@
 # Links to Model Lists on BrickLink
 Looking for parts to build or repair one of these models? You’re in the right place. The links below will take you directly to BrickLink, where you can view and purchase all the parts needed for each model. Each link opens a pre-filled shopping cart with the exact inventory for that specific build. Click the **"proceed to verify items"** button to add the parts, and you can then "add items to your wanted list" from there.
 ## Coalition Units
+
 <details><summary> Coalition Brassbounder </summary>
+    
 ```xml
 <INVENTORY>
     <ITEM>
@@ -90,6 +92,8 @@ Looking for parts to build or repair one of these models? You’re in the right 
     </ITEM>
 </INVENTORY>
 ```
+
 </details>
+
 ## Pact Units
 [Pact Brassbounder](https://www.bricklink.com/v2/wanted/upload.page?sessionid=89BC1AC045BBA568F43DCA57B2BA0670&modelname=UntitledModel&token=%2Fuser%2F1899631.92cac749.xml)
