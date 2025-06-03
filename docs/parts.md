@@ -5,6 +5,7 @@ Looking for parts to build or repair one of these models? You’re in the right 
 <details><summary> Coalition Brassbounder </summary>
     
 ```xml
+
 <INVENTORY>
     <ITEM>
         <ITEMTYPE>P</ITEMTYPE>
@@ -91,6 +92,7 @@ Looking for parts to build or repair one of these models? You’re in the right 
         <MINQTY>1</MINQTY>
     </ITEM>
 </INVENTORY>
+
 ```
 
 </details>
