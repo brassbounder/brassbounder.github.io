@@ -1,3 +1,3 @@
 * [Home](/)
 * [Parts Lists](parts.md)
-* [Glossary](glossary.md)
+* [Glossary](_glossary.md)
