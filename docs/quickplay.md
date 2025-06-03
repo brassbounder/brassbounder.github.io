@@ -10,4 +10,4 @@ color-coded lengths:
 - Short (S) - up to 2 bricks
 - Medium (M) - up to 4 bricks
 - Long (L) - up to 8 bricks
-- Table (T) - no distance limit
+- Table <span class=table>(T)</span> - no distance limit
