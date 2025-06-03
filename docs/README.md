@@ -9,4 +9,4 @@ The PDF rules are available for free on [itch.io](https://graculusdroog.itch.io)
 
 The game can be played with your own custom brick-built models, you can order the parts, or even use non-brick figurines.
 # Test
-Glossary Testing: This unit has Anti-Personnel.
+Glossary Testing: This unit has Anti-Personnel. Armor Piercing High Powered
