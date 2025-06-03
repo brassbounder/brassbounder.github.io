@@ -1,23 +1,46 @@
-<!-- index.html -->
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"
-    />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css" />
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        loadSidebar: true
+        auto2top: true,
+        executeScript: true,
+        loadFooter: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        mergeNavbar: true,
+        name: 'BRASSBOUNDER TOOLKIT',
+        pagination: {
+          crossChapter: true,
+          crossChapterText: true,
+          nextText: {
+            '/': 'NEXT',
+          },
+          previousText: {
+            '/': 'PREVIOUS',
+          },
+        },
+        search: {
+        paths: 'auto',
+        placeholder: {
+          '/': 'Type to search',
+        },
+        noData: {
+          '/': 'No Results',
+        },
+      },
+      subMaxLevel: 2,
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <script src="./docsify-glossary.min.js"></script>
   </body>
 </html>
