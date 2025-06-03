@@ -5,10 +5,10 @@ Earn the most Victory Points by the end of 6 rounds.
 
 ## Ruler and Dice
 All measurements are done in units of the long side of one 2x4 building brick. Distances in the game are grouped into one of four color-coded lengths:
-- Short <span class=short>(S)</span> - up to 2 bricks
-- Medium <span class=med>(M)</span> - up to 4 bricks
-- Long <span class=long>(L)</span> - up to 8 bricks
-- Table <span class=table>(T)</span> - no distance limit
+- Short <span class=short>(S)</span> - up to 2 bricks  
+- Medium <span class=med>(M)</span> - up to 4 bricks  
+- Long <span class=long>(L)</span> - up to 8 bricks  
+- Table <span class=tablerange>(T)</span> - no distance limit  
 
 ## Setup
 The playing area is a rectangle sized 24x16 bricks ( 30”x20”). Each player picks one short edge of the board and places one of each of the 3 units below within <span class=med>(M)</span> of their edge. Place 3 Strategic Points in the middle of the playing area, <span class=short>(S)</span> away from anything else.
