@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](guide.md)
+* [Parts Lists](parts.md)
