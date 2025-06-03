@@ -4,7 +4,6 @@ Looking for parts to build or repair one of these models? You’re in the right 
 
 <details><summary> Coalition Brassbounder </summary>
 
-[`<link href="foo">` xml]
     
 ```xml 
 
