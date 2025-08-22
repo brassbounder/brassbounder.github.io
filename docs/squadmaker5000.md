@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Unit Name Generator</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
     body { font-family: "Crimson Pro", serif; background: #1e1e1e; color: #f0f0f0; text-align: center; padding: 40px; }
     button { font-size: 1.2em; padding: 10px 20px; margin: 20px; cursor: pointer; border-radius: 12px; border: none; background: #444; color: #fff; }
     button:hover { background: #666; }
@@ -19,7 +20,7 @@
   </style>
 </head>
 <body>
-  <h1>The Unitnamer 5000</h1>
+  <h1>Brassbound Universe Name Generator</h1>
 
   <label>
     <input type="checkbox" id="includeNumber"> Include Number
