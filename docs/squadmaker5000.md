@@ -5,7 +5,7 @@
   <title>Unit Name Generator</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
-    body.Brass5000 { font-family: "Crimson Pro", serif; background: #1e1e1e; color: #f0f0f0; text-align: center; padding: 40px; }
+    .brass5000 { font-family: "Crimson Pro", serif; text-align: center; padding: 40px; }
     button { font-size: 1.2em; padding: 10px 20px; margin: 20px; cursor: pointer; border-radius: 12px; border: none; background: #444; color: #fff; }
     button:hover { background: #666; }
     label { font-size: 1em; display: block; margin-top: 15px; }
@@ -19,27 +19,27 @@
     #output { font-size: 1.4em; margin-top: 30px; font-weight: bold; white-space: pre-line; }
   </style>
 </head>
-<body class="Brass5000">
-  <h1>Brassbound Universe Name Generator</h1>
+<body>
+  <h1 class="brass5000">Brassbound Universe Name Generator</h1>
 
-  <label>
+  <label class="brass5000">
     <input type="checkbox" id="includeNumber"> Include Number
   </label>
 
-  <label>
+  <label class="brass5000">
     <input type="checkbox" id="includePrefix"> Include Prefix
   </label>
 
-  <div id="customPrefixField">
+  <div id="customPrefixField" class="brass5000">
     Custom Prefix (optional): <input type="text" id="customPrefix" placeholder="e.g. Empire of Europa">
   </div>
 
-  <label>
+  <label class="brass5000">
     Quantity: <input type="number" id="quantity" value="1" min="1" max="20">
   </label>
 
-  <button onclick="generateNames()">Generate Unit Name(s)</button>
-  <div id="output"></div>
+  <button onclick="generateNames()" class="brass5000">Generate Unit Name(s)</button>
+  <div id="output" class="brass5000"></div>
   <!-- Want to change the names? They live in generator.js -->
 
 </body>
