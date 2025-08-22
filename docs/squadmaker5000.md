@@ -22,24 +22,24 @@
 <body>
   <h1 class="brass5000">Brassbound Universe Name Generator</h1>
 
-  <label class="brass5000">
+  <label>
     <input type="checkbox" id="includeNumber"> Include Number
   </label>
 
-  <label class="brass5000">
+  <label>
     <input type="checkbox" id="includePrefix"> Include Prefix
   </label>
 
-  <div id="customPrefixField" class="brass5000">
+  <div id="customPrefixField">
     Custom Prefix (optional): <input type="text" id="customPrefix" placeholder="e.g. Empire of Europa">
   </div>
 
-  <label class="brass5000">
+  <label>
     Quantity: <input type="number" id="quantity" value="1" min="1" max="20">
   </label>
 
-  <button onclick="generateNames()" class="brass5000">Generate Unit Name(s)</button>
-  <div id="output" class="brass5000"></div>
+  <button onclick="generateNames()">Generate Unit Name(s)</button>
+  <div id="output"></div>
   <!-- Want to change the names? They live in generator.js -->
 
 </body>
