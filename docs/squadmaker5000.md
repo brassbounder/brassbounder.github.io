@@ -5,6 +5,7 @@
   <title>Unit Name Generator</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+    .centerbox {text-align: center;}
     .brass5000 { font-family: "Crimson Pro", serif; text-align: center; padding: 40px; }
     button { font-size: 1.2em; padding: 10px 20px; margin: 20px; cursor: pointer; border-radius: 12px; border: none; background: #444; color: #fff; }
     button:hover { background: #666; }
@@ -20,6 +21,7 @@
   </style>
 </head>
 <body>
+  <div class="centerbox">
   <h1 class="brass5000">Brassbound Universe Name Generator</h1>
 
   <label>
@@ -41,6 +43,7 @@
   <button onclick="generateNames()">Generate Unit Name(s)</button>
   <div id="output"></div>
   <!-- Want to change the names? They live in generator.js -->
+  </div>
 
 </body>
 </html>
